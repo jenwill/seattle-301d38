@@ -1,0 +1,30 @@
+div {
+  float: left;
+  height: 30px;
+  width: 30px;
+  border: 3px solid white;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+body {
+  background-color: red;
+}
+
+@media only screen and (min-width: 600px) {
+  body {
+    background-color: pink;
+  }
+
+  h1 {
+    font-size: 50px;
+  }
+
+  div {
+    float: right;
+  }
+}
