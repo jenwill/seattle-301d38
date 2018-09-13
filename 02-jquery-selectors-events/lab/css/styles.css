@@ -1,0 +1,80 @@
+body {
+  font-family: 'Amatic SC', cursive;
+}
+
+main {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-size: 8vw;
+  margin: 0px;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+}
+
+div {
+  float: left;
+  margin: 10px;
+  width: 28%;
+  height: 400px;
+}
+
+img {
+  height: 200px;
+  border: 1.5px solid #888;
+  box-shadow: 3px 3px #888;
+  margin: 0px auto;
+}
+
+p {
+  font-size: 25px;
+}
+
+form {
+  text-align: center;
+  font-size: 35px;
+}
+
+input[type="radio"] {
+  height: 25px;
+  margin: 20px 0 25px 40px;
+}
+
+select {
+  margin: 0px auto;
+  display: block;
+  height: 3vw;
+  font-size: 15px;
+}
+
+footer {
+  clear: both;
+  font-size: 30px;
+  margin-left: 20px;
+  height: 40px;
+  bottom: 0px;
+}
+
+.filtered {
+  display: inline-block;
+  float: none;
+}
+
+#photo-template {
+  display: none;
+}
+#photo-template img {
+  border: 0px;
+  box-shadow: 0px; 
+}
+section {
+  float: left;
+  margin: 1em;
+}
+section img {
+}
