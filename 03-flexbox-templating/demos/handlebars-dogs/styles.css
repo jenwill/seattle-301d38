@@ -1,0 +1,17 @@
+div {
+  float: left;
+  margin: 30px;
+}
+
+img {
+  height: 200px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.icon-bug {
+  color: red;
+  font-size: 50px;
+}
