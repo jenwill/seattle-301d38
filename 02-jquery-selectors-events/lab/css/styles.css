@@ -1,5 +1,6 @@
 body {
-  font-family: 'Amatic SC', cursive;
+  /* font-family: 'Amatic SC', cursive; */
+  font-family: sans-serif;
 }
 
 main {
@@ -73,8 +74,7 @@ footer {
   box-shadow: 0px; 
 }
 section {
+  width: 300px;
   float: left;
   margin: 1em;
-}
-section img {
 }
