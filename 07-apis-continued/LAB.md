@@ -2,6 +2,8 @@
 
 ## Resources
 
+[Dark Sky API Docs](https://darksky.net/dev/docs)
+
 [Yelp API Docs](https://www.yelp.com/developers/documentation/v3/business_search)
 
 [The Movie DB API Docs](https://developers.themoviedb.org/3/getting-started/introduction)
